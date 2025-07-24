@@ -1,0 +1,6 @@
+Tree,Species,Soil type,Max-Height (M),Max-Diameter (CM),Total Wood Weight (Estimate) (KG),Agarwood Yield (Min/Avg per Tree) (KG),Market Price min (per kg)
+Agar Wood,malaccensis,"Loamy, clay loam, acidic (pH 5.5-6.5)",25,60,2000,5,80000
+Agar Wood,crassna,"Deep sandy clay, feralit, pH 4–6",27,70,1500,4,150000
+Agar Wood,sinensis,"Fertile sandy loam, well-drained, pH 5–7",15,30,1000,3,100000
+Agar Wood,khasiana,high organic soils,13,35,1200,2,80000
+Agar Wood,filaria,"Moist tropical lowlands, loamy/slightly acidic",11,40,950,2,50000
